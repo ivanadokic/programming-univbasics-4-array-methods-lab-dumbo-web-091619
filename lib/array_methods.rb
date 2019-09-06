@@ -26,5 +26,5 @@ end
 
 def using_size(array)
   array = ["Tom", "Jonnatan", "Marc", "Simon"]
-using_size.size
+array.size
 end
