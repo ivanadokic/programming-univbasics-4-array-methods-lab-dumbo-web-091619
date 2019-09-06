@@ -9,7 +9,6 @@ def using_sort(array)
   array.sort?(array)
 end
 
-end
 
 def using_reverse(array)
   
