@@ -12,6 +12,7 @@ end
 end
 
 def using_reverse(array)
+  
 
 end
 
@@ -24,5 +25,6 @@ def using_last(array)
 end
 
 def using_size(array)
-
+  using_size=["Tom", "Jonnatan", "Marc", "Simon"]
+using_size.
 end
