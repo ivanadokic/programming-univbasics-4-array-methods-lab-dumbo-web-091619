@@ -5,6 +5,7 @@ end
 
 
 def using_sort(array)
+  array [1, 3, 5, 6, 8, 2]
   array.sort?(array)
 end
 
